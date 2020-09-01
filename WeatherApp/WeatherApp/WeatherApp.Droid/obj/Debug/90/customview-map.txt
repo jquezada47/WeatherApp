@@ -1,0 +1,10 @@
+Button;obj\Debug\90\res\layout\main.xml
+EditText;obj\Debug\90\res\layout\main.xml
+item;obj\Debug\90\res\values\style.xml
+LinearLayout;obj\Debug\90\res\layout\main.xml
+RelativeLayout;obj\Debug\90\res\layout\main.xml
+resources;obj\Debug\90\res\values\strings.xml
+resources;obj\Debug\90\res\values\style.xml
+string;obj\Debug\90\res\values\strings.xml
+style;obj\Debug\90\res\values\style.xml
+TextView;obj\Debug\90\res\layout\main.xml
